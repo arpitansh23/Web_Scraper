@@ -56,7 +56,3 @@ if st.button('Scrape'):
         file_name='scraped_data.csv',
         mime='text/csv',
     )
-
-
-
-    # df.to_csv("flipkart mobile under 40000.csv")
